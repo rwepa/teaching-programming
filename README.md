@@ -1,2 +1,45 @@
 # teaching-programming
 程式設計 (Programming) 主要在培養學生邏輯思考能力，透過 Python 程式基礎，引導學生建立邏輯概念、問題分析與解決的能力。
+
+科目名稱: 程式設計 (Programming)
+
+# 01_Python語言簡介
+
+# 02_Anaconda_JupyterNotebook_Spyder簡介
+
+# 03_資料型別與運算子
+
+# 04_Python資料物件
+
+# 05_使用NumPy模組與reshape應用
+
+# 06_判斷式應用
+
+# 07_函數應用
+
+# 07a_矩陣
+
+# 07b_微分_積分
+
+# 07c_內插法
+
+# 07d_最佳化
+
+# 08_pandas模組_開放資料輸入與輸出
+
+# 09_pandas模組_資料處理
+
+# 10_pandas模組_資料視覺化
+
+# 11_matplotlib模組_資料視覺化
+
+# 12_seaborn模組_資料視覺化
+
+# 13_Python_Excel_自動化資料分析應
+
+# 14_互動式網頁應用(streamlit)
+
+# 15_水資源案例應用
+
+# 16_氣候案例應用
+
