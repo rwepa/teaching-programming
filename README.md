@@ -6,7 +6,7 @@
 
 # 01_Python語言簡介
 
-programming_01_python.pdf: https://github.com/rwepa/teaching-programming/blob/main/programming_01_python.pdf
++ 01_python.pdf https://github.com/rwepa/teaching-programming/blob/main/01_python.pdf
 
 # 02_Anaconda_JupyterNotebook_Spyder簡介
 
