@@ -10,9 +10,13 @@
 
 # 01_Python語言簡介
 
-+ 01_python.pdf https://github.com/rwepa/teaching-programming/blob/main/01_python.pdf
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/01_python.pdf
 
 # 02_Anaconda_JupyterNotebook_Spyder簡介
+
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/02_anaconda.pdf
+
++ Jupyter-notebook 加入圖片: https://github.com/rwepa/teaching-programming/blob/main/02_jupyter_insert_image.ipynb
 
 # 03_資料型別與運算子
 
