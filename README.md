@@ -4,6 +4,10 @@
 
 說明：程式設計 (Programming) 主要目標在於培養學生邏輯思考能力，透過 Python 程式基礎，引導學生建立邏輯概念、問題分析與解決的能力。
 
+# YouTube課程解說: https://youtu.be/UF55bKYPJ9U
+
+<a href="https://youtu.be/UF55bKYPJ9U" target="_blank">https://youtu.be/UF55bKYPJ9U</a>
+
 # 01_Python語言簡介
 
 + 01_python.pdf https://github.com/rwepa/teaching-programming/blob/main/01_python.pdf
