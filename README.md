@@ -20,6 +20,8 @@
 
 # 03_資料型別與運算子
 
++ 教材 https://github.com/rwepa/teaching-programming/blob/main/03_type_operator.py
+
 # 04_Python資料物件
 
 # 05_使用NumPy模組與reshape應用
