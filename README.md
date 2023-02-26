@@ -24,6 +24,8 @@
 
 # 04_Python資料物件
 
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/04_data_object.py
+
 # 05_使用NumPy模組與reshape應用
 
 # 06_判斷式應用
