@@ -361,11 +361,6 @@ print(dir(list))
 
 # 實作練習
 # 如何顯示不以 __ 開始串列方法的總個數 11
-# analysis:
-listmethod = dir(list)
-newlist = [x for x in listmethod if "__" not in x]
-newlist
-len(newlist)
 
 ##############################
 # 4.3 Set 集合
@@ -624,22 +619,4 @@ mycodes2
 # 將 list 轉換為 dictionary
 # 輸入: lst = ['a', 1, 'b', 2, 'c', 3]
 # 結果: {'a': 1, 'b': 2, 'c': 3}
-
-# analysis:    
-# 方法1
-def ListConvertDict(lst):
-    res_dct = {lst[i]: lst[i + 1] for i in range(0, len(lst), 2)}
-    return res_dct
-
-lst = ['a', 1, 'b', 2, 'c', 3]
-print(ListConvertDict(lst))
-
-# 方法2
-def Convert(a):
-    it = iter(a)
-    res_dct = dict(zip(it, it))
-    return res_dct
-
-lst = ['a', 1, 'b', 2, 'c', 3]
-print(Convert(lst))
 # end
