@@ -22,7 +22,7 @@
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/03_type_operator.py
 
-# 04_Python資料物件
+# 04_資料物件
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/04_data_object.py
 
