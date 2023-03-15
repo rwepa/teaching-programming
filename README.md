@@ -30,7 +30,7 @@
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/05_numpy_and_reshape.py
 
-# 06_判斷式應用
+# 06_判斷式與迴圈應用
 
 # 07_函數應用
 
