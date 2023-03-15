@@ -34,7 +34,7 @@
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/06_if_and_loop.py
 
-# 07_函數應用
+# 07_函數與類別應用
 
 # 08_scipy模組_微積分,內插法,最佳化 [*] 
 
