@@ -8,21 +8,51 @@ GitHub   : https://github.com/rwepa
 Email    : alan9956@gmail.com
 """
 
-# Numpy 模組網頁
+##############################
+# 大綱
+##############################
+# 5.1 Numpy模組簡介
+# 5.2 一維陣列
+# 5.3 二維陣列
+# 5.4 陣列儲存與載入
+# 5.5 常數 Constants
+# 5.6 亂數
+# 5.7 陣列的屬性
+# 5.8 一維陣列 - loop 處理
+# 5.9 二維陣列 - loop 處理
+# 5.10 陣列運算
+# 5.11 reshape 應用
+# 5.12 建立副本
+# 5.13 向量化處理
+
+##############################
+# 5.1 Numpy模組簡介
+##############################
+
 # https://numpy.org/
 
 # Numpy 6大功能
-# 1.POWERFUL N-DIMENSIONAL ARRAYS: Fast and versatile(快速, 多功能), the NumPy vectorization(向量化), indexing(指標化), and broadcasting concepts(廣播概念) are the de-facto standards of array computing today.
+# 1.POWERFUL N-DIMENSIONAL ARRAYS: 
+# + Fast and versatile(快速, 多功能)
+# + the NumPy vectorization(向量化)
+# + indexing(指標化) 
+# + broadcasting concepts(廣播概念)
 
-# 2.NUMERICAL COMPUTING TOOLS: NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.
+# 2.NUMERICAL COMPUTING TOOLS: 
+# NumPy offers comprehensive mathematical functions, random number generators, 
+# linear algebra routines, Fourier transforms, and more.
 
-# 3.OPEN SOURCE: Distributed under a liberal BSD license, NumPy is developed and maintained publicly on GitHub by a vibrant, responsive, and diverse community.
+# 3.OPEN SOURCE: Distributed under a liberal BSD license, NumPy is developed 
+# and maintained publicly on GitHub by a vibrant, responsive, and diverse community.
 
-# 4.INTEROPERABLE: NumPy supports a wide range of hardware and computing platforms, and plays well with distributed, GPU, and sparse array libraries.
+# 4.INTEROPERABLE: NumPy supports a wide range of hardware and computing platforms, 
+# and plays well with distributed, GPU, and sparse array libraries.
 
-# 5.PERFORMANT: The core of NumPy is well-optimized C code. Enjoy the flexibility of Python with the speed of compiled code.
+# 5.PERFORMANT: The core of NumPy is well-optimized C code. Enjoy the flexibility 
+# of Python with the speed of compiled code.
 
-# 6.EASY TO USE: NumPy’s high level syntax makes it accessible and productive for programmers from any background or experience level.
+# 6.EASY TO USE: NumPy’s high level syntax makes it accessible and productive 
+# for programmers from any background or experience level.
 
 
 # Numpy 安裝
@@ -33,7 +63,7 @@ import numpy as np
 
 # numpy 模組使用 numpy.ndarray 物件不可使用添合資料型態, 例: 數值+字串混合會有錯誤.
 ##############################
-# 一維陣列
+# 5.2 一維陣列
 ##############################
 
 # 使用 tuple 或 list 建立一維陣列
@@ -58,7 +88,7 @@ print(b)
 np.sort(b)
 
 ##############################
-# 二維陣列
+# 5.3 二維陣列
 ##############################
 
 # 使用巢狀清單建立二維陣列
@@ -121,7 +151,7 @@ np.ones_like(a)
 #  [1 1 1]]
 
 ##############################
-# 陣列儲存與載入
+# 5.4 陣列儲存與載入
 ##############################
 
 # 實作練習
@@ -138,7 +168,7 @@ with open(outputfile, 'rb') as fp:
 print(mydata)
 
 ##############################
-# 常數 Constants
+# 5.5 常數 Constants
 ##############################
 
 import numpy as np
@@ -165,7 +195,7 @@ a = np.array([30, 45, 60, 90])
 np.sin(a*np.pi/180)
 
 ##############################
-# 亂數
+# 5.6 亂數
 ##############################
 
 import numpy as np
@@ -232,7 +262,7 @@ more_vals = rng.standard_normal(3)
 print(more_vals)
 
 ##############################
-# 陣列的屬性
+# 5.7 陣列的屬性
 ##############################
 import numpy as np
 
@@ -264,7 +294,7 @@ b.dtype    # int32
 # myzero.shape 結果為 (5, 3, 4)
 
 ##############################
-# array 一維陣列 - loop 處理
+# 5.8 一維陣列 - loop 處理
 ##############################
 
 a = np.array([1,2,3,4])
@@ -288,7 +318,7 @@ for i in range(len(a)):
 [print(x) for x in a]
 
 ##############################
-# array 二維陣列 - loop 處理
+# 5.9 二維陣列 - loop 處理
 ##############################
 
 a = np.array([[1,2,3,4], [5,6,7,8]])
@@ -302,7 +332,7 @@ for x in a:
         print(str(item) + " ", end = " ")
 
 ##############################
-# 陣列運算
+# 5.10 陣列運算
 ##############################
 
 a = np.array([1,2,3])
@@ -354,7 +384,7 @@ np.linalg.eig(x)
 #         [ 0.56576746, -0.90937671]]))
 
 ##############################
-# reshape 應用
+# 5.11 reshape 應用
 ##############################
 import numpy as np
 
@@ -376,7 +406,7 @@ z.reshape(3, -1) # row 3 , column: unknown
 z.reshape(-1, -1) # ERROR
 
 ##############################
-# 建立副本
+# 5.12 建立副本
 ##############################
 
 # 建立副本-使用等號
@@ -399,7 +429,7 @@ c
 a # a物件沒有更改
 
 ##############################
-# 向量化處理
+# 5.13 向量化處理
 ##############################
 
 a = np.array([0,1,1,2,3,5])
