@@ -50,7 +50,9 @@
 
 # 10_pandas模組_資料視覺化
 
-+ 參考: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
++ 線上說明: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
+
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/10_pandas_visualization.py
 
 # 11_matplotlib模組_資料視覺化
 
