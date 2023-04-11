@@ -50,6 +50,8 @@
 
 # 10_pandas模組_資料視覺化
 
++ 參考: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
+
 # 11_matplotlib模組_資料視覺化
 
 # 12_seaborn模組_資料視覺化
