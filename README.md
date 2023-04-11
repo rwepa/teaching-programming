@@ -38,7 +38,11 @@
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/07_def_and_class.py
 
-# 08_scipy模組_微積分,內插法,最佳化 [*] 
+# 08_scipy模組_微積分,內插法 [*] 
+
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/08_scipy_calculus_interpolation.py
+
++ pdf 教材: https://github.com/rwepa/teaching-programming/blob/main/08_scipy_calculus_interpolation.pdf
 
 # 09_pandas模組_開放資料輸入與處理
 
