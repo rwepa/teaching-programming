@@ -46,6 +46,8 @@
 
 # 09_pandas模組_開放資料輸入與處理
 
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/09_pandas.py
+
 # 10_pandas模組_資料視覺化
 
 # 11_matplotlib模組_資料視覺化
