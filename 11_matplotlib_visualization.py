@@ -12,6 +12,8 @@ Email    : alan9956@gmail.com
 # 11.1 matplotlib常用語法
 # 11.2 水雷 vs. 岩石 視覺化分析
 
+# https://matplotlib.org/
+  
 # 11.1 matplotlib常用語法
 import matplotlib.pyplot as plt
 import numpy as np
