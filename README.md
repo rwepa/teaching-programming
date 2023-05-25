@@ -56,7 +56,11 @@
 
 # 11_matplotlib模組_資料視覺化
 
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/11_matplotlib_visualization.py
+
 # 12_seaborn模組_資料視覺化
+
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/12_seaborn_visualization.py
 
 # 13_Python_Excel_自動化資料分析應 [*]
 
