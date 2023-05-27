@@ -62,12 +62,49 @@
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/12_seaborn_visualization.py
 
-# 13_Python_Excel_自動化資料分析應 [*]
+# 13_Python_Excel_自動化資料分析應
 
-# 14_streamlit模組_互動式網頁應用 [*]
++ openpyxl 官網: https://openpyxl.readthedocs.io/en/stable/
 
-# 15_水資源案例應用 [*]
++ openpyxl 教學: https://realpython.com/openpyxl-excel-spreadsheets-python/
 
-# 16_氣候案例應用 [*]
+# 14_streamlit模組_互動式網頁應用
 
-[*] 表示選讀
++ YouTube: https://youtu.be/FW-dl-flLvk 
+
++ 【記得按 讚、訂閱、開啟小鈴鐺】
+
++ Cloud 佈署成果: https://rwepahello.streamlit.app/
+
++ Community Cloud(包括免費版本): https://streamlit.io/cloud
+
++ LINK: https://rwepa.blogspot.com/2023/01/python-streamlit-dashboard.html
+
++ Code: https://github.com/rwepa/teaching-streamlit
+
+# 15_水資源案例應用
+
++ Water Quality Prediction (7 model) 包括視覺化分析與預測模型
+
++ Logistic Regression, Decision Tree, Random Forest, XGBoost Classifier, KNN, SVM
+
++ 反應變數: Potability {1: Potable, 0: Not potable}
+
++ 資料筆數: 3276*10
+
++ https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model/notebook
+
+# 16_氣候案例應用
+
++ Climate Change: Earth Surface Temperature Data
+
++ ZIP 檔案84.7MB
+
++ 包括 GlobalLandTemperaturesByCity.csv 等5個 csv 檔案
+
++ GlobalLandTemperaturesByCity.csv: 8,599,212*7
+ 
++ GlobalLandTemperaturesByCity.csv 欄位名稱: dt,AverageTemperature,AverageTemperatureUncertainty,City,Country,Latitude,Longitude
+
++ https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+###### end
