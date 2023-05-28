@@ -86,11 +86,13 @@
 
 + Water Quality Prediction (7 model) 包括視覺化分析與預測模型
 
-+ Logistic Regression, Decision Tree, Random Forest, XGBoost Classifier, KNN, SVM
++ 7 model: Logistic Regression, Decision Tree, Random Forest, XGBoost, KNN, SVM, AdaBoos
 
 + 反應變數: Potability {1: Potable, 0: Not potable}
 
 + 資料筆數: 3276*10
+
++ water_potability.csv下載: https://github.com/rwepa/DataDemo/blob/master/water_potability.csv
 
 + https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model/notebook
 
