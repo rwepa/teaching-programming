@@ -33,7 +33,17 @@ df
 # 149           5.9          3.0           5.1          1.8  virginica
 # [150 rows x 5 columns]
 
+# hue: color參數
 sns.pairplot(df, hue="species")
+
+# diag_kind: 對角線圖形
+sns.pairplot(df, hue="species", diag_kind="hist")
+
+# kde繪圖
+sns.pairplot(df, kind="kde")
+
+# 加上顏色,形狀
+sns.pairplot(df, hue="species", markers=["o", "s", "D"])
 
 ###
 # Question:
