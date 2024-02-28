@@ -8,6 +8,10 @@
 
 + 課程網址: https://github.com/rwepa/teaching-programming
 
+# 00_AI基礎程式設計
+
++ 教材: https://github.com/rwepa/teaching-programming/blob/main/00_ai_programming_and_programming.pdf
+
 # 01_Python語言簡介
 
 + 教材: https://github.com/rwepa/teaching-programming/blob/main/01_python.pdf
