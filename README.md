@@ -113,4 +113,14 @@
 + GlobalLandTemperaturesByCity.csv 欄位名稱: dt,AverageTemperature,AverageTemperatureUncertainty,City,Country,Latitude,Longitude
 
 + https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+
+# pip 技巧
+
++ 精簡顯示已經安裝模組的版本 (for Windows)
+
+pip list | findstr pandas
+
++ same as the above for Ubuntu
+
+pip list | grep pandas
 ###### end
