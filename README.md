@@ -114,6 +114,12 @@
 
 + https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 
+# 17_水庫CTSI卡爾森指數長資料（Long data）轉換為寬資料（Wide data）
+
++ 政府資料開放平台-水庫水質監測資料: https://data.gov.tw/dataset/6345
+
++ water_ctsi.jpynb
+
 # pip 技巧
 
 + 精簡顯示已經安裝模組的版本 (for Windows)
