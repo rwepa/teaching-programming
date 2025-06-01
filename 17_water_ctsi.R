@@ -6,7 +6,7 @@
 # References: https://github.com/rwepa/python_data_scientist
 # Python file: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.ipynb
 
-# 方法1: 使用R的基本{stats}套件 - reshape 函數
+# 方法: 使用R的基本{stats}套件 - reshape 函數
 
 # 匯入資料集
 urls <- 'wqx_p_03.csv'
