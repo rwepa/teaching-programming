@@ -118,7 +118,11 @@
 
 + 政府資料開放平台-水庫水質監測資料: https://data.gov.tw/dataset/6345
 
-+ 教材: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.ipynb
++ Python教材: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.ipynb
+
++ R教材: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.R
+
++ R教材-readr, dplyr, tidyr套件: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi2.R
 
 # pip 技巧
 
