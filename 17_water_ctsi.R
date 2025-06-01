@@ -63,6 +63,10 @@ df_wide <- reshape(data = mydf,
                    timevar = "itemname",
                    idvar = "sitename",
                    direction="wide")
+
+# 取代多餘的欄位名稱字元
 names(df_wide) <- gsub(pattern = "itemvalue.", replacement = "", names(df_wide))
-str(df_wide)
+
+# 寬資料結果
+df_wide
 # end
