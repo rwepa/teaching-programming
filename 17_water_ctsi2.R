@@ -5,7 +5,6 @@
 # Data source: https://data.gov.tw/dataset/6345
 # References: https://github.com/rwepa/python_data_scientist
 # Python file: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.ipynb
-# 說明: 本範例使用 readr, dplyr 套件
 
 # 方法: 使用R {readr}, {dplyr} {tidyr} 套件
 
