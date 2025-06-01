@@ -68,5 +68,5 @@ df_wide <- reshape(data = mydf,
 names(df_wide) <- gsub(pattern = "itemvalue.", replacement = "", names(df_wide))
 
 # 寬資料結果
-df_wide
+df_wide # 28*5
 # end
