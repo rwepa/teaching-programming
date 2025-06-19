@@ -120,6 +120,8 @@
 
 + Python教材: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.ipynb
 
++ HTML教材: https://github.com/rwepa/teaching-programming/blob/main/18_water_ctsi_visualization.html
+
 + R教材: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi.R
 
 + R教材-readr, dplyr, tidyr套件: https://github.com/rwepa/teaching-programming/blob/main/17_water_ctsi2.R
