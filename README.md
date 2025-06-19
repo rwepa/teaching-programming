@@ -130,6 +130,8 @@
 
 + HTML教材: https://github.com/rwepa/teaching-programming/blob/main/18_water_ctsi_visualization.html
 
++ Demo: ![image](https://github.com/rwepa/teaching-programming/blob/main/images/18_water_ctsi_visualization.gif)
+
 # pip 技巧
 
 + 精簡顯示已經安裝模組的版本 (for Windows)
