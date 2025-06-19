@@ -130,7 +130,7 @@
 
 + HTML教材: https://github.com/rwepa/teaching-programming/blob/main/18_water_ctsi_visualization.html
 
-+ Demo: ![image](https://github.com/rwepa/teaching-programming/blob/main/images/18_water_ctsi_visualization.gif)
++ Demo: ![image](https://raw.githubusercontent.com/rwepa/teaching-programming/refs/heads/main/images/18_water_ctsi_visualization.gif)
 
 # pip 技巧
 
