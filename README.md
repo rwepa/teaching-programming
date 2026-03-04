@@ -141,4 +141,8 @@ pip list | findstr pandas
 + same as the above for Ubuntu
 
 pip list | grep pandas
+
+# Python in Hydrology
+
++ https://greenteapress.com/pythonhydro/pythonhydro.pdf
 ###### end
