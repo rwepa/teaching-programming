@@ -142,6 +142,10 @@ pip list | findstr pandas
 
 pip list | grep pandas
 
++ 詳細顯示已經安裝模組資料
+
+pip show pandas
+
 # Python in Hydrology
 
 + https://greenteapress.com/pythonhydro/pythonhydro.pdf
