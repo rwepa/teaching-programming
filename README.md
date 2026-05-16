@@ -146,6 +146,13 @@ pip list | grep pandas
 
 pip show pandas
 
++ 手動安裝 Jupyter notebook
+
+pip install notebook
+
++ 啟動 Jupyter notebook
+jupyter notebook
+
 # Python in Hydrology
 
 + https://greenteapress.com/pythonhydro/pythonhydro.pdf
