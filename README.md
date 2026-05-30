@@ -98,6 +98,28 @@
 
 + water_potability.csv下載: https://github.com/rwepa/DataDemo/blob/master/water_potability.csv
 
++ 變數說明:
+
+1. ph: pH of 1. water (0 to 14). (水的pH值, 0至14)
+
+2. Hardness: Capacity of water to precipitate soap in mg/L. (硬度：水中析出肥皂的能力，單位為mg/L)
+
+3. Solids: Total dissolved solids in ppm. (固體：總溶解固體含量，單位為ppm)
+
+4. Chloramines: Amount of Chloramines in ppm. (氯胺：氯胺含量，單位為ppm)
+
+5. Sulfate: Amount of Sulfates dissolved in mg/L. (硫酸鹽：硫酸鹽含量，單位為mg/L)
+
+6. Conductivity: Electrical conductivity of water in μS/cm. (電導率：水的電導率，單位為μS/cm)
+
+7. Organic_carbon: Amount of organic carbon in ppm. (有機碳：有機碳含量，單位為ppm)
+
+8. Trihalomethanes: Amount of Trihalomethanes in μg/L. (三鹵甲烷：三鹵甲烷含量，單位為μg/L)
+
+9. Turbidity: Measure of light emiting property of water in NTU. (濁度：水發光性能的指標，單位為NTU, Nephelometric Turbidity Unit 散射濁度單位)
+
+10. Potability: Indicates if water is safe for human consumption. Potable -1 and Not potable -0 (飲用水安全等級：指示水是否適合人類飲用。飲用水等級為-1，不飲用水等級為-0)
+
 + https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model/notebook
 
 # 16_氣候案例應用
